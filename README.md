@@ -1,1 +1,2 @@
-"# personal-website-backend" 
+Personal Website
+Stack used: Node, Express, MongoDB
