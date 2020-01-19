@@ -10,7 +10,6 @@ console.log('HEY');
 app.set('port', process.env.PORT || 3000)
 // support parsing of application/json type post data
 app.use(bodyParser.json());
-
 //support parsing of application/x-www-form-urlencoded post data
 app.use(bodyParser.urlencoded({ extended: true }));
 
